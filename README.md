@@ -30,7 +30,7 @@ JIS symmetric staggered 65% keyboard
  - タクトスイッチ  
    1個
  - MXキーソケット  
-   70個 Kailh製
+   72個 Kailh製
  - ダイオード  
    72個 1N4148 表面実装
  - MX用 2Uスタビライザー  
@@ -45,3 +45,12 @@ JIS symmetric staggered 65% keyboard
 Pro Microはシルクに合わせて端子が基板側に来るようにします  
 ## しっかり組み立て(全部解説)
 ### Pro Micro
+
+### はんだづけ
+
+### 組み立て
+
+### キースイッチの取り付け
+
+### 書き換え
+
