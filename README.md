@@ -3,9 +3,5 @@ JIS symmetric staggered 65% keyboard
 
 いい風来てる？
 
-## Build Guide
-### Lite Edition  
-Ver.Beta
-
-### Extended Edition
+## Build Guide  
 Ver.Beta
