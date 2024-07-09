@@ -1,4 +1,4 @@
-# Build Guide
+# Build Guide〔BETA〕
 Beta版のビルドガイドです。PCBには「いい風来てる？　試製Summer Zephyr Lite Edition」と表記されています。
 ## 内容物の確認
 - PCB
