@@ -28,6 +28,7 @@ Beta版のビルドガイドです。PCBには「試製Summer Zephyr Lite Editio
 
 ## キーキャップの選定
 一部のキーを特殊な幅に設定しています。以下のリストをよく確認してください。  
+[/../images/layout.png]
 - Caps Lock 1u
 - Shift 2u
 - Shift 1u
