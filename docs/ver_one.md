@@ -1,5 +1,5 @@
 # Build Guide〔Ver.1〕
-Ver.1版のビルドガイドです。PCBには「いい風来てる？　Summer Zephyr」と表記されています。
+Ver.1のビルドガイドです。PCBには「いい風来てる？　Summer Zephyr」と表記されています。
 ## 内容物の確認
 - PCB
 - スイッチプレート
