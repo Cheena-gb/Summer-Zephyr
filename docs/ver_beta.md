@@ -21,7 +21,7 @@ Beta版のビルドガイドです。PCBのウラ面には「いい風来てる�
   4個入っています。
 
 ## 必須パーツの用意
- - Waveshare RP2040-Zero
+ - Waveshare RP2040-Zero  
    1個
  - キーソケット  
    6個
