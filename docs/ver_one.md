@@ -86,8 +86,3 @@ RP2040のBOOTを押しながらPCに接続し[^1]、ストレージとして認�
 キーボードを裏返し、バックパネルを乗せてねじ止めします。  
 チルトプレートを導入したい場合はバックパネルとまとめてねじ止めします。  
 滑り止めのゴム足を貼り付け、好みのキーキャップを取り付けたら、完成です！  
-
-### 作例
-White ABS / Acid caps Gray on Black / Kailh Midnight Silent V2 Linear
-
-Acryl Glass-Like / Acid Caps Seihakuji / Gateron KS-9 Silent Linear Black
